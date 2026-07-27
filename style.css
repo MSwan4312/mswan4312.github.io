@@ -13,3 +13,6 @@ body {
 html {
     font-size: 18px; 
 }
+body {
+    line-height: 1.6; /* Increases space between text lines */
+  }
